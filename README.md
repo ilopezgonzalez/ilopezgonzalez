@@ -55,7 +55,7 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring"/><br/>Spring
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/dataflex" width="42" height="42" alt="DataFlex"/><br/>DataFlex
+      <img src="https://img.shields.io/badge/DF-DataFlex-FF6600?style=flat-square" width="42" height="42" alt="DataFlex"/><br/>DataFlex
     </td>
   </tr>
   <tr>
