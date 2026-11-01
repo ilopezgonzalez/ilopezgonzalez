@@ -124,9 +124,6 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/><br/>Bash
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx"/><br/>Nginx
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="42" height="42" alt="Android"/><br/>Android
     </td>
   </tr>
