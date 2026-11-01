@@ -98,7 +98,6 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" height="42" alt="Azure"/><br/>Azure
     </td>
-  
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="42" height="42" alt="PowerShell"/><br/>PowerShell
     </td>
