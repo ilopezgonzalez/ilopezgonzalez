@@ -90,9 +90,7 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/><br/>Linux
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="42" height="42" alt="Terraform"/><br/>Terraform
-    </td>
+    
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" height="42" alt="Azure"/><br/>Azure
     </td>
