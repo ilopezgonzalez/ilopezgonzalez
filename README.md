@@ -66,4 +66,81 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java"/><br/>Java
     </td>
     <td align="center">
-      <img src="https://
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/><br/>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/latex/008080" width="42" height="42" alt="LaTeX"/><br/>LaTeX
+    </td>
+  </tr>
+</table>
+
+### DevOps & Tools
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br/>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="42" height="42" alt="GitLab"/><br/>GitLab
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/><br/>Linux
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="42" height="42" alt="Terraform"/><br/>Terraform
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" height="42" alt="Azure"/><br/>Azure
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="42" height="42" alt="PowerShell"/><br/>PowerShell
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino"/><br/>Arduino
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xampp/xampp-original.svg" width="42" height="42" alt="XAMPP"/><br/>XAMPP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/><br/>Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/><br/>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud"/><br/>Google Cloud
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="42" height="42" alt="Unity"/><br/>Unity
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/><br/>Bash
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx"/><br/>Nginx
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="42" height="42" alt="Android"/><br/>Android
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contact
+
+- 🌐 **Portfolio:** [ilopezgonzalez.github.io](https://ilopezgonzalez.github.io/)
+- 💼 **LinkedIn:** [linkedin.com/in/ilopezgonzalezdev](https://www.linkedin.com/in/ilopezgonzalezdev)
+- ✉️ **Email:** [ilopezgonzalez.dev@gmail.com](mailto:ilopezgonzalez.dev@gmail.com)
+
+---
+
+*Always learning, always building.*
