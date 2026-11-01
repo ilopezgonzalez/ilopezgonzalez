@@ -72,7 +72,7 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br/>Python
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/latex/008080" width="42" height="42" alt="LaTeX"/><br/>LaTeX
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/><br/>MongoDB
     </td>
   </tr>
 </table>
