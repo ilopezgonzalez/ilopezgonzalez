@@ -105,13 +105,13 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino"/><br/>Arduino
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xampp/xampp-original.svg" width="42" height="42" alt="XAMPP"/><br/>XAMPP
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/xampp/default.svg" width="42" height="42" alt="XAMPP"/><br/>XAMPP
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/><br/>Docker
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/><br/>AWS
+      <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="42" height="42" alt="AWS"/><br/>AWS
     </td>
   </tr>
   <tr>
