@@ -104,9 +104,6 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
     </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino"/><br/>Arduino
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/xampp/default.svg" width="42" height="42" alt="XAMPP"/><br/>XAMPP
     </td>
     <td align="center">
@@ -115,14 +112,14 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="42" height="42" alt="AWS"/><br/>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud"/><br/>Google Cloud
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="42" height="42" alt="Unity"/><br/>Unity
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/><br/>Bash
     </td>
