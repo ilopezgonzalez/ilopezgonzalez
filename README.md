@@ -54,8 +54,8 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring"/><br/>Spring
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/><br/>OpenCV
+    <td align="center">
+      <img src="https://img.shields.io/badge/DF-DataFlex-FF6600?style=flat-square" width="42" height="42" alt="DataFlex"/><br/>DataFlex
     </td>
   </tr>
   <tr>
@@ -78,9 +78,6 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/><br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/DF-DataFlex-FF6600?style=flat-square" width="42" height="42" alt="DataFlex"/><br/>DataFlex
     </td>
   </tr>
 </table>
