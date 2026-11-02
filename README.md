@@ -139,4 +139,10 @@ Aplicación Android desarrollada con Java para ayudar a personas con alergias e 
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 *Always learning, always building.*
